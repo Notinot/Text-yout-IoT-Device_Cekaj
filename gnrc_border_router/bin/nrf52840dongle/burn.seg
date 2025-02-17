@@ -1,0 +1,4 @@
+loadfile /home/labi/RIOT/examples/gnrc_border_router/bin/nrf52840dongle/gnrc_border_router.elf
+r
+g
+exit
